@@ -4,6 +4,7 @@ Getting Scrappy! is a game that teaches players how to sort discarded items into
 # Installation
 This repository contains the files to run the finished game on your Windows or Mac computer.
 1. Clone this repository
-2. Within the repository, there are two folders: one labeled (Windows) and one labeled (Mac). Open the correct file for your computer. If you are using Windows, ________. If you are using Mac, ________________. 
+2. Within the repository, there are two folders: one labeled (Windows) and one labeled (Mac). Open the correct file for your computer. If you are using Windows, open the application "EducationalRecyclingGame" with the unity logo beside it. If you are using Mac, unzip the file and run the application. 
+3. Enjoy!
 
 For the source code, and a more detailed ReadMe, check out https://github.com/rijdmc419/EducationalRecyclingGame.
