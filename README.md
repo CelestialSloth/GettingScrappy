@@ -6,4 +6,4 @@ This repository contains the files to run the finished game on your Windows or M
 1. Clone this repository
 2. Within the repository, there are two folders: one labeled (Windows) and one labeled (Mac). Open the correct file for your computer. If you are using Windows, ________. If you are using Mac, ________________. 
 
-For the source code, and a more detailed ReadMe, check out ________________.
+For the source code, and a more detailed ReadMe, check out https://github.com/rijdmc419/EducationalRecyclingGame.
